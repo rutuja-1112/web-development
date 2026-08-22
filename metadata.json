@@ -1,0 +1,7 @@
+{
+  "name": "EngiNova AI Tutor",
+  "description": "Mobile-first futuristic AI learning dashboard featuring an interactive concept pulse, live adaptive roadmap, practice lab challenges, career growth simulator, and neural AI engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
